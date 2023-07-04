@@ -1,4 +1,14 @@
-p{
+#one{
     background-color: red;
+    padding: 0px;
+}
+
+#two{
+    background-color: aquamarine;
+    padding: 0px;
+}
+
+#three{
+    background-color: rgb(216, 216, 39);
     padding: 0px;
 }
